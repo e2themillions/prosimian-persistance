@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prosimian.persistence", "prosimian.persistence.csproj", "{2CDE8179-8041-448C-9D11-5F5CA833EA9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEST", "..\TEST\TEST.csproj", "{D032B368-EAF0-4FE7-AC02-96DE80A2108C}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+		tester|Any CPU = tester|Any CPU
+		tester|Mixed Platforms = tester|Mixed Platforms
+		tester|x86 = tester|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CDE8179-8041-448C-9D11-5F5CA833EA9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CDE8179-8041-448C-9D11-5F5CA833EA9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CDE8179-8041-448C-9D11-5F5CA833EA9A}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{2CDE8179-8041-448C-9D11-5F5CA833EA9A}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{2CDE8179-8041-448C-9D11-5F5CA833EA9A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2CDE8179-8041-448C-9D11-5F5CA833EA9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CDE8179-8041-448C-9D11-5F5CA833EA9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CDE8179-8041-448C-9D11-5F5CA833EA9A}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{2CDE8179-8041-448C-9D11-5F5CA833EA9A}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{2CDE8179-8041-448C-9D11-5F5CA833EA9A}.Release|x86.ActiveCfg = Release|Any CPU
+		{2CDE8179-8041-448C-9D11-5F5CA833EA9A}.tester|Any CPU.ActiveCfg = tester|Any CPU
+		{2CDE8179-8041-448C-9D11-5F5CA833EA9A}.tester|Any CPU.Build.0 = tester|Any CPU
+		{2CDE8179-8041-448C-9D11-5F5CA833EA9A}.tester|Mixed Platforms.ActiveCfg = tester|Any CPU
+		{2CDE8179-8041-448C-9D11-5F5CA833EA9A}.tester|Mixed Platforms.Build.0 = tester|Any CPU
+		{2CDE8179-8041-448C-9D11-5F5CA833EA9A}.tester|x86.ActiveCfg = tester|Any CPU
+		{D032B368-EAF0-4FE7-AC02-96DE80A2108C}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{D032B368-EAF0-4FE7-AC02-96DE80A2108C}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{D032B368-EAF0-4FE7-AC02-96DE80A2108C}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{D032B368-EAF0-4FE7-AC02-96DE80A2108C}.Debug|x86.ActiveCfg = Debug|x86
+		{D032B368-EAF0-4FE7-AC02-96DE80A2108C}.Debug|x86.Build.0 = Debug|x86
+		{D032B368-EAF0-4FE7-AC02-96DE80A2108C}.Release|Any CPU.ActiveCfg = Release|x86
+		{D032B368-EAF0-4FE7-AC02-96DE80A2108C}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{D032B368-EAF0-4FE7-AC02-96DE80A2108C}.Release|Mixed Platforms.Build.0 = Release|x86
+		{D032B368-EAF0-4FE7-AC02-96DE80A2108C}.Release|x86.ActiveCfg = Release|x86
+		{D032B368-EAF0-4FE7-AC02-96DE80A2108C}.Release|x86.Build.0 = Release|x86
+		{D032B368-EAF0-4FE7-AC02-96DE80A2108C}.tester|Any CPU.ActiveCfg = Release|x86
+		{D032B368-EAF0-4FE7-AC02-96DE80A2108C}.tester|Mixed Platforms.ActiveCfg = Release|x86
+		{D032B368-EAF0-4FE7-AC02-96DE80A2108C}.tester|Mixed Platforms.Build.0 = Release|x86
+		{D032B368-EAF0-4FE7-AC02-96DE80A2108C}.tester|x86.ActiveCfg = Release|x86
+		{D032B368-EAF0-4FE7-AC02-96DE80A2108C}.tester|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
